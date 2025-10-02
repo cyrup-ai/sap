@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="assets/icon.jpg" alt="SAP Logo" width="200"/>
+  <img src="assets/icon.png" alt="SAP Logo" width="200"/>
   
-  # SAP - Smart Adaptive ls
+  # SAP - a drop in `ls` replacement
   
   **A blazing-fast drop-in replacement for `lsd` with LLM integration**
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Rust](https://img.shields.io/badge/rust-2024-orange.svg)](https://www.rust-lang.org)
 </div>
 
@@ -567,7 +568,14 @@ cargo clippy
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details
+SAP is dual-licensed under your choice of:
+
+* **MIT License** ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+* **Apache License, Version 2.0** ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+
+This means you can choose either license when using this software.
+
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
 
 ---
 
