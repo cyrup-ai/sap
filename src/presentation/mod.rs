@@ -1,0 +1,1 @@
+//! Presentation layer - currently empty, kept for future extensions
